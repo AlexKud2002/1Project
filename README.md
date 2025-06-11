@@ -25,9 +25,9 @@
 ![netplan_ipaB](https://github.com/AlexKud2002/1Project/blob/main/netplanipaB.PNG)
 ![netplan_ipaC](https://github.com/AlexKud2002/1Project/blob/main/netplanipaC.PNG)
 
-На ВМ А был для 'enp0s3' был выставлен автоматический ip-адрес, а для 'enp0s8' - "192.168.26.10/24" в соответствии с заданием; <br>
-На ВМ Б был для 'enp0s3' был также выставлен автоматический ip-адрес, для 'enp0s8' - "192.168.26.1/24", а для enp0s9 - "192.168.6.1/24" в соответствии с заданием; <br>
-На ВМ С был для 'enp0s3' выставлен автоматический ip-адрес, а для 'enp0s8' - "192.168.6.1/24" в соответствии с заданием;
+На ВМ А был для 'enp0s3' был выставлен автоматический ip-адрес, а для 'enp0s8' - "192.168.14.10/24" в соответствии с заданием; <br>
+На ВМ Б был для 'enp0s3' был также выставлен автоматический ip-адрес, для 'enp0s8' - "192.168.14.1/24", а для enp0s9 - "192.168.3.1/24" в соответствии с заданием; <br>
+На ВМ С был для 'enp0s3' выставлен автоматический ip-адрес, а для 'enp0s8' - "192.168.3.1/24" в соответствии с заданием;
 
 ---
 
@@ -74,11 +74,11 @@
 
 Мониторинг запросов POST с ВМ С на ВМ А:
 
-![logs_post](https://github.com/user-attachments/assets/6ad2142d-cf7e-4429-8c17-16ed08de83ee)
+![logs_post](https://github.com/AlexKud2002/1Project/blob/main/post.jpg)
 
 Мониторинг запросов PUT с ВМ С на ВМ А:
 
-![logs_put](https://github.com/user-attachments/assets/4c9fc810-437c-4ce1-95af-fb1dbcb4825b)
+![logs_put](https://github.com/AlexKud2002/1Project/blob/main/put.jpg)
 
 ---
 
