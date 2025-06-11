@@ -70,7 +70,7 @@
 Так же с помощью команды 'tcpdump' были получены логи передачи пакетов с ВМ С на ВМ А. Ниже представлены скрины.
 
 Мониторинг запросов GET с ВМ С на ВМ А:
-![logs_get](https://github.com/user-attachments/assets/de673c05-e077-4875-b30b-166d80d0e281)
+![logs_get](https://github.com/AlexKud2002/1Project/blob/main/get.jpg)
 
 Мониторинг запросов POST с ВМ С на ВМ А:
 
