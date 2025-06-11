@@ -65,7 +65,7 @@
 
 На скринах ниже представлено состояние ВМ А во время получения запросов с ВМ С:
 
-![gpp_A](https://github.com/AlexKud2002/1Project/blob/main/fask_app_py%20.jpg)
+![gpp_A](https://github.com/AlexKud2002/1Project/blob/main/fask_app_py.jpg)
 
 Так же с помощью команды 'tcpdump' были получены логи передачи пакетов с ВМ С на ВМ А. Ниже представлены скрины.
 
